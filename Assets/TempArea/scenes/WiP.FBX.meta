@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 887eb43bb60de99419952c1c5cb63ca7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 2'
+    100004: ' 3'
+    100006: Box008
+    100008: Box009
+    100010: Box010
+    100012: Cartel001
+    100014: Cartel002
+    100016: Cenicero
+    100018: Expositores01
+    100020: InnerWall01
+    100022: Landscape01
+    100024: MainBody
+    100026: Maqueta
+    100028: Maqueta 1
+    100030: MaquetaBase
+    100032: Monitor001
+    100034: Monitor002
+    100036: Monitor003
+    100038: Monitor004
+    100040: Monitor006
+    100042: Monitor01
+    100044: Monitor02
+    100046: Pantalla001
+    100048: Pantalla002
+    100050: Pantalla003
+    100052: Pantalla004
+    100054: Pantalla005
+    100056: Plane002
+    100058: Shelf
+    100060: SportePantalla
+    100062: //RootNode
+    400000: ' 1'
+    400002: ' 2'
+    400004: ' 3'
+    400006: Box008
+    400008: Box009
+    400010: Box010
+    400012: Cartel001
+    400014: Cartel002
+    400016: Cenicero
+    400018: Expositores01
+    400020: InnerWall01
+    400022: Landscape01
+    400024: MainBody
+    400026: Maqueta
+    400028: Maqueta 1
+    400030: MaquetaBase
+    400032: Monitor001
+    400034: Monitor002
+    400036: Monitor003
+    400038: Monitor004
+    400040: Monitor006
+    400042: Monitor01
+    400044: Monitor02
+    400046: Pantalla001
+    400048: Pantalla002
+    400050: Pantalla003
+    400052: Pantalla004
+    400054: Pantalla005
+    400056: Plane002
+    400058: Shelf
+    400060: SportePantalla
+    400062: //RootNode
+    2300000: Box008
+    2300002: Box009
+    2300004: Box010
+    2300006: Cartel001
+    2300008: Cartel002
+    2300010: Cenicero
+    2300012: Expositores01
+    2300014: InnerWall01
+    2300016: Landscape01
+    2300018: MainBody
+    2300020: Maqueta 1
+    2300022: MaquetaBase
+    2300024: Monitor001
+    2300026: Monitor002
+    2300028: Monitor003
+    2300030: Monitor004
+    2300032: Monitor006
+    2300034: Pantalla001
+    2300036: Pantalla002
+    2300038: Pantalla003
+    2300040: Pantalla004
+    2300042: Pantalla005
+    2300044: Plane002
+    2300046: Shelf
+    2300048: SportePantalla
+    3300000: Box008
+    3300002: Box009
+    3300004: Box010
+    3300006: Cartel001
+    3300008: Cartel002
+    3300010: Cenicero
+    3300012: Expositores01
+    3300014: InnerWall01
+    3300016: Landscape01
+    3300018: MainBody
+    3300020: Maqueta 1
+    3300022: MaquetaBase
+    3300024: Monitor001
+    3300026: Monitor002
+    3300028: Monitor003
+    3300030: Monitor004
+    3300032: Monitor006
+    3300034: Pantalla001
+    3300036: Pantalla002
+    3300038: Pantalla003
+    3300040: Pantalla004
+    3300042: Pantalla005
+    3300044: Plane002
+    3300046: Shelf
+    3300048: SportePantalla
+    4300000: MainBody
+    4300002: InnerWall01
+    4300004: Cenicero
+    4300006: Shelf
+    4300008: Expositores01
+    4300010: Landscape01
+    4300012: MaquetaBase
+    4300014: Plane002
+    4300016: Maqueta
+    4300018: SportePantalla
+    4300020: Monitor001
+    4300022: Pantalla001
+    4300024: Pantalla002
+    4300026: Monitor002
+    4300028: Pantalla003
+    4300030: Monitor003
+    4300032: Monitor004
+    4300034: Pantalla004
+    4300036: Monitor006
+    4300038: Pantalla005
+    4300040: Box008
+    4300042: Box009
+    4300044: Cartel001
+    4300046: Cartel002
+    4300048: Box010
+    6400000: Box008
+    6400002: Box009
+    6400004: Box010
+    6400006: Cartel001
+    6400008: Cartel002
+    6400010: Cenicero
+    6400012: Expositores01
+    6400014: InnerWall01
+    6400016: Landscape01
+    6400018: MainBody
+    6400020: Maqueta 1
+    6400022: MaquetaBase
+    6400024: Monitor001
+    6400026: Monitor002
+    6400028: Monitor003
+    6400030: Monitor004
+    6400032: Monitor006
+    6400034: Pantalla001
+    6400036: Pantalla002
+    6400038: Pantalla003
+    6400040: Pantalla004
+    6400042: Pantalla005
+    6400044: Plane002
+    6400046: Shelf
+    6400048: SportePantalla
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
