@@ -1,0 +1,8 @@
+Version de Item para ser usada como clase basica para todos los objetos interactivos en lugar de la anterior.
+de este modo los subtipos enciendeluces y abrepuertas heredarian de esta base Y su automata sera uniestado
+
+
+**********
+**mods
+**********
+ --Maybe show the object name at distance and object long descritpion at  x - y

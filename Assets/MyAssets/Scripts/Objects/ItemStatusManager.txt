@@ -1,0 +1,16 @@
+	
+  (antiguo objectlookup.js)	
+	--state0,state1, state2--> these arrays stores the transitions from each status to the next one. They are the 
+	  'arrows' on the diagram.
+	
+	  The format for each array item (remember, "array item" is "arrow in the diagram") is:
+	      "Key Icon,1,KeyAtLock,1,KeyIcon,0"
+	      
+	      where
+	        --Key Icon is the icon type needed to go forward in the diagram (e.g. the key icon to open a lock)
+	        --1 is the target status in the current object.
+	        --KeyAtLock and KeyIcon are auxiliary objects which will also change their status.
+	        --1 and 0 are the auxiliary objects next status.
+	
+	
+	

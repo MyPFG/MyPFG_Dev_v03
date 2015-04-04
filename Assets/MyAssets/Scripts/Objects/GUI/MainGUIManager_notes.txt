@@ -1,0 +1,7 @@
+if (gameManager.showDesc){   // && and check if distance to target is under treshold  
+   -->still need to chec the distance from the player to the selected objec (via var in the game manager which will
+      store the distance to the last 'moused-over' item.
+
+
+
+   -->still need to hide the action message after 'some seconds'

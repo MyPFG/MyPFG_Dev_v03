@@ -1,0 +1,11 @@
+NODOS
+numero#texto#tono#hablante
+ARCOS
+origen#destino#texto#bloqueado#autorretorno
+FIN
+
+
+pendiente de añadir:
+-->recibir objeto (cambiar estado para ponerlo en inventariO) en los nodos
+-->dar objeto (cambiar estado para sacarlo de inventario en los arcos)
+----->incluyendo chequeo de que se tiene el objeto para poner el arco accesible

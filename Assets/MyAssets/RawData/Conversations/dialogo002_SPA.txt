@@ -1,0 +1,22 @@
+NODES
+01#Hola!!bienvenido a la demo v01 del motor de conversacion#Neutro#Capsula
+02#Oh, solo soy una capsula gris y aburrida... pero sueño con convertirme en un cilindro verde para poder rodar y rodar colina abajo... todo muy verde, por supuesto.#Neutro#Capsula
+03#Mi trabajo es simplemente probar si el motor de conversacion funciona razonablemente dandote acceso a algunas pistas si me haces las pregutnas adecuadas bien.. y adivina...¡¡funciona!!#Neutro#Capsula
+04#Bueno, ese cofre esta vacio pero es lo unico que hay para interactuar de momento. Si consigues resolver un pequeño puzzle de prueba... se abrira el solito#Neutro#Capsula
+05#Para que el cofre se abra debes encontrar las dos esferas naranjas de la sabiduria, mezclarlas para fabricar el circulo rojo del poder y tendras la primera llave. La segunda es el cilindro oscuro del mal... si pones ambas cosas en el altar el cofre magico se abrira#Neutro#Capsula
+06#El circulo rojo del poder es un artefacto ancestral que simboliza la eterna lucha entre el mal y el peor... ayer le di un golpecito y se rompio formando dos esferas, pero no se lo digas a nadie#Neutro#Capsula
+07#El cilindro negro del mal es un cilindro... es oscuro ... y es maligno. No hay que dejarlo suelto o el mundo se llenara de cilindritos grises de la malicia!#Neutro#Capsula
+08#De nada, es un placer... espero verte por aqui!#Neutro#Capsula
+ARCS
+1#2#Hola. Perdona que te diga pero tienes una pinta rara... ¿quien eres?#NO#NO
+2#3#Vaya, que poco inspirado. ¿Y que haces aqui?#NO#NO
+1#4#Hola. ¿Hay algo interesante aqui?#NO#NO
+3#4#¿Hay algo interesante aqui?#NO#NO
+4#5#Mmmmm... pero parece cerrado#NO#NO
+5#7#¿El cilindro oscuro del mal?#NO#NO
+5#6#¿El circulo rojo del poder?#NO#NO
+6#7#¿El cilindro oscuro del mal?#NO#NO
+7#6#¿El circulo rojo del poder?#NO#NO
+6#8#Que emocionante... gracias por la ayuda#NO#NO
+7#8#Que emocionante... gracias por la ayuda#NO#NO
+END

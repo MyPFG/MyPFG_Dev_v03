@@ -1,0 +1,39 @@
+NODES
+01#Es la habitacion de Nadia. La hirieron hace dos dias y estara descansando en cama. Ella me dara el informe de la mision.#Neutro#Montoya
+02#Si, quien es?#Neutro#Nadia
+03#Ah... si... claro... yo... perdona...#Neutro#Nadia
+04#Si, claro, he estado estudiando el informe. Que necesitas?#Neutro#Nadia
+05#No se esperan un ataque... puede que 5 o 6... con seguridad menos de 10.#Neutro#Nadia
+06#Un grupo de matones del Chi-haun. Debes eliminarlo a todos, especialmente a su jefe. Se espera que su grupo sufra luchas internas por la falta de liderazgo.#Neutro#Nadia
+07#En el cementerio de New Haven. Estaran alli a medio dia.#Neutro#Nadia
+08#Me duele bastante pero mientras me mantenga en la cama es soportable.#Neutro#Nadia
+09#Lo hare... creo que una semana estare en condiciones.#Neutro#Nadia
+10#Lo... lo siento. Yo... tendre mas cuidado en el futuro.#Neutro#Nadia
+11#Llamo esta mañana. Parecia de mal humor, dijo que estaria de vuelta al amanecer, ya ha terminado sus asuntos.#Neutro#Nadia
+12#No he tenido noticias suyas desde que contacto con el traficante. Estoy un poco preocupada por el.#Neutro#Nadia
+13#Gracias. Buena suerte, jefa.#Neutro#Nadia
+ARCS
+1#2#Tengo que hablar con ella aunque no esta en condiciones de levantarse.#NO#NO
+2#4#Soy yo, Nadia. Necesito que me des los detalles de la mision.#NO#NO
+2#3#La reina madre... tu que crees?#NO#NO
+3#4#A ver, unas preguntas... si no es demasiado esfuerzo.#NO#NO
+4#5#Cuantos enemigos puedo esperar?#NO#NO
+5#4#Volvamos a mis otras preguntas.#NO#SI
+4#6#Cual es el objetivo?#NO#NO
+6#4#Volvamos a mis otras preguntas.#NO#SI
+4#7#Donde esta el objetivo?#NO#NO
+7#4#Volvamos a mis otras preguntas.#NO#NO
+4#8#Que tal estas, Nadia? Como te encuentras?#NO#NO
+8#9#Tranquila, tu procura recuperarte cuanto antes.#NO#NO
+8#10#Te lo tienes merecido, te comportaste como una idiota.#NO#NO
+9#11#Que hay de Boris?#NO#NO
+9#12#Que hay de Radek?#NO#NO
+10#11#Que hay de Boris?#NO#NO
+10#12#Que hay de Radek?#NO#NO
+11#12#Que hay de Radek?#NO#NO
+12#11#Que hay de Boris?#NO#NO
+12#13#Bien, me marcho ya, procura descansar#NO#NO
+11#13#Bien, me marcho ya, procura descansar#NO#NO
+12#4#Recuerdame los detalles#NO#NO
+11#4#Recuerdame los detalles#NO#NO
+END

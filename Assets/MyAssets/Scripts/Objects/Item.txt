@@ -1,0 +1,40 @@
+	
+  (antiguo interactor only for items)
+  --incluye los items metadata y hereda de Interactive object para traerse las funcionalidades core
+  
+  
+  --LOCATION
+  --- 0-> in scene and active
+  --- 1-> in inventory
+  --- 2-> is cursor
+  --- 3-> not pickable (in scene but inactive)
+  --- 4-> not in scene
+  
+  
+  
+  
+
+  
+  --VISIBILITY (for transitions from visible to not visible or not visible to visible to sync with anims)
+  --- 0->immediate change
+  --- 1->show at start
+  --- 2->hide at start
+  --- 3->show at start, hide at end
+  --- 4-> hide at end
+  
+  
+  --INVENTORY OBJECTS (the 2d representation of each item to be shown in the inventory)
+  ----states: (always these 3 states and no more ((for the states array)))
+  -------0-->not in scene (location 4)
+  -------1-->is in inventory (location 1)
+  -------2-->is cursor (location 2)
+     
+     
+  --PICKABLE ITEMS
+  ----every pickable item MUST have at least:
+  ------The 3d representation of the object to be put in the scenary (tagged as "ActionObject")
+  ------A GUI texture object (Tagged as "InventoryObject" with both scripts (item v2 and item status manager). Its *Texture*
+        parameter MUST have the same name than the GUI texture object
+        
+  
+  
